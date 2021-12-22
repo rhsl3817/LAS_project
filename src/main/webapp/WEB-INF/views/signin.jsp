@@ -59,7 +59,7 @@
 					<a href="./signout">로그아웃</a>
 					<a href="/withdrawal">회원탈퇴</a>
 					
-					
+					<!--  -->
 				</c:if>
 				</div>
 			</div>
